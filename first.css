@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  
+  .p Using object-fit: cover
+  
+  <img src="paris.jpg" alt="Paris" width="400" height="300">
+  
